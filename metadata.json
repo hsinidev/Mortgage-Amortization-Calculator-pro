@@ -1,0 +1,5 @@
+{
+  "name": "Mortgage/Amortization Calculator",
+  "description": "A modern mortgage and amortization calculator that instantly determines your monthly payment and generates a complete amortization schedule as a downloadable CSV file. Plan your financial future with detailed insights into principal and interest payments over the life of your loan.",
+  "requestFramePermissions": []
+}
