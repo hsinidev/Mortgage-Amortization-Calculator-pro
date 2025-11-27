@@ -1,6 +1,6 @@
 # 💰 Mortgage/Amortization Calculator (Nebula Edition)
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Mortgage.doodax.com-2ea44f?style=for-the-badge&logo=rocket)](https://Mortgage.doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-2ea44f?style=for-the-badge&logo=rocket)](https://doodax.com/tools/mortgage-calculator/index.html)
 
 A high-performance, privacy-focused financial tool built with **React (Next.js)** and **Tailwind CSS**. This application empowers users to instantly calculate mortgage payments, visualize complex amortization schedules, and export detailed financial data for personal planning.
 
